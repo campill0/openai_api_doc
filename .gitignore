@@ -1,0 +1,10 @@
+﻿################################################################################
+# Este archivo .gitignore ha sido creado automáticamente por Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/openai_api_doc/CopilotIndices/0.2.1624.5528
+/.vs/openai_api_doc/FileContentIndex
+/.vs/openai_api_doc/v17/.wsuo
+/.vs/openai_api_doc/v17/DocumentLayout.json
+/.vs
+/.gitignore
